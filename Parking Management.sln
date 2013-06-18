@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parking Management", "Parking Management\Parking Management.csproj", "{39129A13-C59B-4167-B3DD-37C0DD0189CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39129A13-C59B-4167-B3DD-37C0DD0189CD}.Debug|x86.ActiveCfg = Debug|x86
+		{39129A13-C59B-4167-B3DD-37C0DD0189CD}.Debug|x86.Build.0 = Debug|x86
+		{39129A13-C59B-4167-B3DD-37C0DD0189CD}.Release|x86.ActiveCfg = Release|x86
+		{39129A13-C59B-4167-B3DD-37C0DD0189CD}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
